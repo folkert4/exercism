@@ -177,3 +177,4 @@ testCaseCollection.xml
 /Exercism.VC.VC.opendb
 /cpp/
 .vs/
+*.VC.db
