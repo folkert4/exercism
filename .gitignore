@@ -174,3 +174,4 @@ coffeescript/*/*.js.map
 # =========================
 CMakeLists.txt
 testCaseCollection.xml
+/Exercism.VC.VC.opendb
