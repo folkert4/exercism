@@ -63,10 +63,14 @@
     <Content Include="bob\bob.spec.js" />
     <Content Include="example\example.js" />
     <Content Include="example\example_test.spec.js" />
+    <Content Include="gigasecond\gigasecond.spec.js" />
+    <Content Include="gigasecond\gigasecond.js" />
     <Content Include="hamming\hamming.js" />
     <Content Include="hamming\hamming.spec.js" />
     <Content Include="hello-world\hello-world.js" />
     <Content Include="hello-world\hello-world.spec.js" />
+    <Content Include="isogram\isogram.js" />
+    <Content Include="isogram\isogram.spec.js" />
     <Content Include="leap\leap.js" />
     <Content Include="leap\leap.spec.js" />
     <Content Include="pangram\pangram.js" />
@@ -80,6 +84,8 @@
     <Content Include="rna-transcription\README.md" />
     <Content Include="pangram\README.md" />
     <Content Include="bob\README.md" />
+    <Content Include="gigasecond\README.md" />
+    <Content Include="isogram\README.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
