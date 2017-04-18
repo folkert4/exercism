@@ -60,6 +60,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="beer-song\beer-song.js" />
+    <Content Include="beer-song\beer-song.spec.js" />
     <Content Include="bob\bob.spec.js" />
     <Content Include="example\example.js" />
     <Content Include="example\example_test.spec.js" />
@@ -86,6 +88,7 @@
     <Content Include="bob\README.md" />
     <Content Include="gigasecond\README.md" />
     <Content Include="isogram\README.md" />
+    <Content Include="beer-song\README.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
